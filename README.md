@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Kraonix
+# 👋 Hey there, I'm Sachin
 
 🎓 Currently pursuing my **Master’s in Computer Applications** at *Lovely Professional University*, after completing my **Bachelor’s in Computer Applications** from *Panjab University*.
 
