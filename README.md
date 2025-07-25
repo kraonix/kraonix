@@ -47,3 +47,9 @@ I'm still early in my journey, but I’m looking for opportunities to:
 Whether it’s about code, collaboration, or curiosity — I’d love to hear from you.
 
 ---
+&nbsp;![](https://komarev.com/ghpvc/?username=Kraonix&color=brightgreen)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kraonix&show_icons=true&rank_icon=github&locale=en" alt="Kraonix" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kraonix&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
+</p>
+
+---
