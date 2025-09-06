@@ -3,9 +3,9 @@
 🎓 Currently pursuing my **Master’s in Computer Applications (MCA)** at *Lovely Professional University* (CGPA: 8.83), after completing my **Bachelor’s in Computer Applications (BCA)** from *Panjab University* (71%).  
 
 💻 I’m passionate about solving problems and building practical applications. My focus is on:  
-- **Programming Languages**: C++, Java, Kotlin, Python  
-- **Frameworks & Tools**: React JS, MySQL, SQL Server, Git/GitHub  
-- **Soft Skills**: Problem-Solving, Adaptability, Project Management, Teamwork  
+- **Programming Languages**:  C++, Java, Kotlin, Python  
+- **Frameworks & Tools**:     React JS, MySQL, SQL Server, Git/GitHub  
+- **Soft Skills**:            Problem-Solving, Adaptability, Project Management, Teamwork  
 
 ---
 
@@ -13,34 +13,6 @@
 > *“Tech isn’t just about building things — it’s about understanding the logic behind them.”*  
 
 I’m curious about the “why” behind every piece of technology. From loops to large-scale systems, I enjoy breaking down problems and crafting clean solutions.  
-
----
-
-## 🛠️ Projects
-
-- **QuizWorld** | *Java, SQL Server*  
-  - Java-based GUI application for institutions to create quizzes.  
-  - Real-time result tracking and review system.  
-  - Secure storage of user scores with SQL Server.  
-
-- **FlapFlap** | *Unity Engine, C#*  
-  - Recreation of the viral *Flappy Bird* game.  
-  - Implemented procedural obstacle generation, scoring, and collision detection.  
-  - Built as a standalone Windows `.exe`.  
-  - [🔗 GitHub Repo](https://github.com/kraonix/FlapFlap)  
-
-- **BookBounty** | *PHP, HTML, CSS, JS, SQL*  
-  - Online publishing platform for authors and readers.  
-  - Role-based system with login, secure access, and responsive design.  
-  - [🔗 GitHub Repo](https://github.com/kraonix/BookBounty)  
-
----
-
-## 📜 Certifications
-- C++ with Data Structures & Algorithms – GeekForGeeks *(July 2025)*  
-- Java (Basic) – HackerRank *(July 2025)*  
-- OOPS in C++ – NeoColab *(Dec 2024)*  
-- Code-a-Haunt – Hackathon by CodingBlocks LPU *(Feb 2025)*  
 
 ---
 
