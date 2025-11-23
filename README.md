@@ -36,8 +36,8 @@ Air Force family kid — adaptable, curious, and always exploring new ideas beyo
 ![](https://komarev.com/ghpvc/?username=Kraonix&color=brightgreen)
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=Kraonix&show_icons=true&rank_icon=github" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kraonix&layout=compact&hide_border=true&langs_count=10&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api?username=Kraonix&show_icons=true&theme=transparent&rank_icon=github&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kraonix&layout=compact&hide_border=true&langs_count=8&theme=transparent" />
 </p>
 
 ## 🧑‍💻 Coding Profiles
