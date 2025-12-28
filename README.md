@@ -5,8 +5,8 @@ I love building practical apps and breaking down problems with clean logic.
 ---
 
 ## Tech Stack
-**Languages:** ```C++``` ```Java``` ```Kotlin``` ```Python```  
-**Tools:** ```React.js``` ```MySQL``` ```SQL Server``` ```Git/GitHub```  
+**Languages:** ```C++``` ```C#``` ```Java``` ```Kotlin``` ```Python```  
+**Tools:** ```MySQL``` ```SQL Server``` ```Git/GitHub```  
 ---
 
 ## About Me
