@@ -10,7 +10,7 @@ I love building practical apps and breaking down problems with clean logic.
 ---
 
 ## About Me
-Air Force family kid — adaptable, curious, and always exploring new ideas beyond tech.
+adaptable, curious, and always exploring new ideas beyond tech.
 ---
 
 ## Goals
