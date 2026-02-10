@@ -1,6 +1,6 @@
 # Hey, I'm Sachin
 
-MCA student at **LPU** (CGPA 8.83) | BCA from **Panjab University**  
+MCA student at **LPU** (CGPA 8.71) | BCA from **Panjab University**  
 I love building practical apps and breaking down problems with clean logic.
 ---
 
@@ -25,9 +25,6 @@ adaptable, curious, and always exploring new ideas beyond tech.
 - sachinkumar056212@gmail.com  
 ---
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kraonix&layout=compact&hide_border=true&langs_count=8&theme=transparent" />
-</p>
 <p>
 <img src="https://komarev.com/ghpvc/?username=Kraonix&color=brightgreen" />
 </p>
