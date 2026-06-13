@@ -1,6 +1,6 @@
 # Hey, I'm Sachin
 
-MCA student at **LPU** (CGPA 8.71) | BCA from **Panjab University**  
+MCA student at **LPU** (CGPA 8.8) | BCA from **Panjab University**  
 I love building practical apps and breaking down problems with clean logic.
 ---
 
